@@ -1,4 +1,4 @@
-import 'package:flutter_boilerplate/index.dart';
+import 'index.dart';
 
 final Map routes = {
   HomePage.routeName: (_) => HomePage(),
