@@ -2,6 +2,8 @@
 
 Flutter 项目模板
 
+![folder-structure](./screenshots/folder-structure.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
