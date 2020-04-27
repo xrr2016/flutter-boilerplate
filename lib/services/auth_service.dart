@@ -1,5 +1,5 @@
 class AuthService {
-  login() async {}
+  Future login() async {}
 
-  signup() async {}
+  Future signup() async {}
 }

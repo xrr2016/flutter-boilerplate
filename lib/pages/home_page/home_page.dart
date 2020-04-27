@@ -1,4 +1,4 @@
-import 'package:flutter_boilerplate/index.dart';
+import '../../index.dart';
 
 class HomePage extends StatelessWidget {
   static String routeName = '/home-page';

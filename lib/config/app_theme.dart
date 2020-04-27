@@ -1,5 +1,7 @@
-import 'package:flutter_boilerplate/index.dart';
+import '../index.dart';
 
 class AppTheme {
+  AppTheme();
+
   static Color primarySwitch = Colors.blue;
 }
